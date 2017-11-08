@@ -1,0 +1,5 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\bin\Debug\CalcService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\bin\Debug\CalcService.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\obj\Debug\CalcService.csprojResolveAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\obj\Debug\CalcService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\SimpleCalculator\CalcService\obj\Debug\CalcService.pdb
